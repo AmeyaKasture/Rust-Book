@@ -1,0 +1,21 @@
+# Cargo build artifacts
+/target/
+
+# Rust backup files
+*.rs.bk
+
+# JetBrains IDE
+.idea/
+
+# VS Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment secrets
+.env
+.env.*
